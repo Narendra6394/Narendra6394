@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Narendra Verma 👋
 
-<!--
-**Narendra6394/Narendra6394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer | M.Tech CSE
 
-Here are some ideas to get you started:
+I am a Computer Science professional focused on Java, Data Structures & Algorithms, Web Development and SQL. I am building practical software projects and continuously improving my problem-solving and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 🌐 HTML, CSS, JavaScript
+- 🗄️ SQL
+- 🔧 Git & GitHub
+
+### 🎓 Education
+
+- M.Tech — Computer Science & Engineering
+- B.Tech — Computer Science & Engineering | 74% | 2024
+
+### 🚀 Projects
+
+- E-Commerce Website — HTML, CSS, JavaScript
+- Placement Cell Web App — MERN Stack
+- Java & DSA Practice — Ongoing
+
+### 🌐 Portfolio
+
+[Visit My Portfolio](https://narendra6394.github.io/Narendra_verma/)
+
+### 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/narendra-verma-01628a229)
+
+📧 Email: nv803259@gmail.com
